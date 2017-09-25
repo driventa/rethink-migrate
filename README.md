@@ -34,7 +34,8 @@ Create a ```database.json``` file in the root of your solution with the format:
   "host": "localhost",
   "port": 28015,
   "db": "migrations",
-  "discovery": true,
+  "user": "admin",
+  "password": "123",
   "timeout": 60
 }
 ```
